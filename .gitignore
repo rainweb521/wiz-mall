@@ -39,3 +39,5 @@ build/
 
 # maven plugin ignore
 *.gpg
+
+application-prod.yaml
